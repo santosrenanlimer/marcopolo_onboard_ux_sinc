@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "sinc-production-nuvem",
+            "script": "npm",
+            "args": "run start_production_nuvem"
+        }
+    ]
+}
